@@ -10,7 +10,7 @@ I specialize in evaluating security postures, vulnerability management, and pene
 - 🛡️ **Cloud Security** – AWS security best practices & compliance (SOC2, HIPAA).  
 - 🏗️ **Security Operations** – Incident response, threat hunting, and risk assessment.  
 - 🖥️ **Software & API Security** – Ensuring secure SDLC processes.  
-- 🔬 **AI & Natural Language Processing Security** – Protecting AI-driven platforms.  
+- 🔬 **AI & LLM Security** – Protecting AI-driven platforms.  
 
 ## 🏆 **Certifications**  
 - 🏅 **AWS Certified Cloud Practitioner**  
@@ -33,7 +33,7 @@ I specialize in evaluating security postures, vulnerability management, and pene
 ## 📫 **Let's Connect!**  
 💼 **[LinkedIn](https://www.linkedin.com/in/qw3rjo)**  
 🐦 **[Twitter](https://twitter.com/qw3rjo/)**  
-📧 Upon Request  
+📧 Upon Request 
 
 ---
 
